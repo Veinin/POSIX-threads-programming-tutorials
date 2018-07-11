@@ -46,8 +46,8 @@
 ## [线程扩展](./doc/07_extended.md)
 
 - [栅栏（Barriers）](./doc/07_extended.md#栅栏（Barriers）)
-- [读/写锁（Read-Write Lock）](./doc/07_extended.md#读/写锁（Read-Write Lock）)
-- [自旋锁（Spin Locks）](./doc/07_extended.md#自旋锁（Spin Locks）)
+- [读/写锁（Read-Write Lock）](./doc/07_extended.md#读/写锁（Read-Write%20Lock）)
+- [自旋锁（Spin Locks）](./doc/07_extended.md#自旋锁（Spin%20Locks）)
 - [信号量（Semaphore）](./doc/07_extended.md#信号量（Semaphore）)
 
 ## [线程同步精要](./doc/08_synchronization_essentials.md)
