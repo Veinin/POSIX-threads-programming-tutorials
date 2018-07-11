@@ -1,0 +1,1 @@
+ADD_EXECUTABLE(thread_lifecycle thread_lifecycle.c)

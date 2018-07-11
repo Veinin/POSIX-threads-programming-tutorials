@@ -1,0 +1,8 @@
+ADD_EXECUTABLE(barrier_main barrier_main.c barrier.h barrier.c)
+ADD_EXECUTABLE(pthread_barriers pthread_barriers.c)
+ADD_EXECUTABLE(rwlock_main rwlock_main.c rwlock.h rwlock.c)
+ADD_EXECUTABLE(pthread_rwlock pthread_rwlock.c)
+ADD_EXECUTABLE(spinlock_main spinlock_main.c spinlock.h)
+ADD_EXECUTABLE(pthread_spinlock pthread_spinlock.c)
+ADD_EXECUTABLE(pthread_semaphore pthread_semaphore.c)
+ADD_EXECUTABLE(workq_main workq_main.c workq.h workq.c)
