@@ -49,8 +49,8 @@ $ ./bin/barrier_main
 
 * [线程高级编程](./doc/05_advanced_thread_programming.md)
   * [一次性初始化](./doc/05_advanced_thread_programming.md#一次性初始化)
-  * [线程属性](./doc/05_advanced_thread_programming.md#线程属性)
-  * [取消取消](./doc/05_advanced_thread_programming.md#取消取消)
+  * [属性](./doc/05_advanced_thread_programming.md#属性)
+  * [取消](./doc/05_advanced_thread_programming.md#取消)
   * [线程私有数据](./doc/05_advanced_thread_programming.md#线程私有数据)
   * [线程实时调度](./doc/05_advanced_thread_programming.md#线程实时调度)
 
@@ -63,13 +63,14 @@ $ ./bin/barrier_main
   * [线程安全函数](./doc/06_posix_adjusts_to_threads.md#线程安全函数)
 
 * [线程扩展](./doc/07_extended.md)
-  * [栅栏（Barriers）](./doc/07_extended.md#栅栏（Barriers）)
-  * [读/写锁（Read-Write Lock）](./doc/07_extended.md#读/写锁（Read-Write%20Lock）)
-  * [自旋锁（Spin Locks）](./doc/07_extended.md#自旋锁（Spin%20Locks）)
-  * [信号量（Semaphore）](./doc/07_extended.md#信号量（Semaphore）)
+  * [栅栏（Barriers）](./doc/07_extended.md#%E6%A0%85%E6%A0%8Fbarriers)
+  * [读/写锁（Read-Write Lock）](./doc/07_extended.md#%E8%AF%BB%E5%86%99%E9%94%81read-write-lock)
+  * [自旋锁（Spin Locks）](./doc/07_extended.md#%E8%87%AA%E6%97%8B%E9%94%81spin-locks)
+  * [信号量（Semaphore）](./doc/07_extended.md##%E4%BF%A1%E5%8F%B7%E9%87%8Fsemaphore)
+  * [工作队列](./doc/07_extended.md#工作队列)
 
 * [线程同步精要](./doc/08_synchronization_essentials.md)
   * [线程同步四项原则](./doc/08_synchronization_essentials.md#线程同步四项原则)
-  * [互斥器](./doc/08_synchronization_essentials.md#互斥器)
+  * [互斥器](./doc/08_synchronization_essentials.md#%E4%BA%92%E6%96%A5%E5%99%A8mutex)
   * [条件变量](./doc/08_synchronization_essentials.md#条件变量)
   * [不要使用读写锁和信号量](./doc/08_synchronization_essentials.md#不要使用读写锁和信号量)
